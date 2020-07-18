@@ -2,10 +2,10 @@ Tomcat initialized with port(s): 8081 (http)
 
 Steps to Run
 ###################
-
-Step 1: run mvn clean
-Step2:  run mvn install
-Step3:  Run as java application 
+Step 1: install maven
+Step 2: run mvn clean
+Step3:  run mvn install
+Step4:  Run as java application 
           /HoneyWell/src/main/java/com/honeywell/Application.java 
       
 Step: call the below API from Postman or any other tool
